@@ -1,0 +1,254 @@
+Country,Publishing organisations,Size,Results,Project title,Link 1,Team size,Who made this project,Topics,Main source format,Source origin,Methodology,Open source GITHUB,AI Subsets,AI Tasks,Reference to the use of AI in the final publication
+United States of America,Grist,Big,Winner,Grist_Any Way the Wind Blows,https://grist.org/project/accountability/koch-oxbow-port-arthur-texas-clean-air-act-pollution/,2,Naveena Sadasivam and Clayton Aldern,ENVIRONMENT,TEXT,INSTITUTIONAL,YES,YES,MACHINE LEARNING,"PREDICTIVE MODEL
+",YES
+United Kingdom,The Financial Times,Big,Winner,How China is tearing down Islam,https://ig.ft.com/china-mosques/,18,"By Peter Andringa, Irene de la Torre Arenas, Max Harlow, Sam Joiner, Joe Leahy, Lucy Rodgers, Eva Xiao, Yuan Yang, and Sun Yu.
+
+Drone footage by Marine ZambraNO.
+
+Additional reporting by Steven Bernard, Dan Clark, Oliver Hawkins, Eade Hemingway, Ella Hollowood, Alison Killing, Caroline Nevitt and Eri Sugiura.",RELIGION,SATELLITE,SCRAPING ,YES,NO,MACHINE LEARNING,SCRAPING,NO
+Taiwan,報導者 The Reporter,Small,Winner,"[Illustration] China’s War Drums to the First Island Chain: Responses and the Reshaping of the US-Japan Strategy Amidst Taiwan Strait Military Tension
+【圖解】解放軍如何進逼第一島鏈：台海衝突下牽動的美日軍事布局",https://www.twreporter.org/a/taiwanyuji-first-island-chain-MILITARY-movement-multimedia,11,"文字／許詩愷、洪琴宣、柯皓翔、簡毅慧；設計／江世民；數據分析／柯皓翔、簡毅慧；多媒體企劃／洪琴宣；攝影／楊子磊；核稿／李雪莉、張鎮宏；責任編輯／張詩芸、汪彥成、陳思樺
+
+Shih-Kai Hsu, Ethan Kong, Hao-Hsiang Ko, Yi-Hui Chien, Chin-Hsuan Hung, Tzu-Lei Yang, Sherry Hsueh-Li Lee, Chen-Hun Chang, Shih-Yun Chang, Yen-Chen Wang, Szu-Hua Chen",MILITARY,IMAGES ,INSTITUTIONAL,YES,YES,GENERATIVE,DATA CLEANING/PROCESSING,NO
+United States of America,Bloomberg News,Big,Winner,HUMANS ARE BIASED. GENERATIVE AI IS EVEN WORSE,https://www.bloomberg.com/graphics/2023-generative-ai-bias/?sref=pmOAaxNp,4,"Leonardo Nicoletti, Dina Bass, Chloe Whiteaker, Jillian Ward",AI,IMAGES ,AI,YES,NO,GENERATIVE,DATA CREATION,YES
+Nigeria,HumAngle Media and New Lines Magazine,Small,Winner,Finding Nigeria’s Forgotten Mass Graves Through Satellite Data,https://humanglemedia.com/finding-mass-graves/,6,"1. Byline: Mansir Muhammed
+2. Satellite imagery analysis and visualisation: Mansir Muhammed
+3. Field Reporting by: ‘Kunle Adebajo
+4. Edited by: Rasha Elass (New Lines Magazine), Kunle Adebajo (HumAngle), Erin Brown (New Lines Magazine)",MILITARY,SATELLITE,SCRAPING,NO,NO,MACHINE LEARNING,PREDICTIVE MODEL,NO
+Netherlands,"Lighthouse Reports, WIRED, Vers Beton, OpenRotterdam",Big,Winner,Inside the Suspicion Machine,https://www.wired.com/preview/story/63e565abcde6e0e4f71292cf?status=draft&amp;t=1675978318256,24,"Gabriel Geiger, Eva Constantaras, Justin-Casimir Braun, Htet Aung, Evaline Schot, Saskia Klassen, Romy van Dijk, Dhruv Mehrota, Morgan Meaker, Matthew Burgess, Kyle Thomas, Alyssa Walker, Raagul Nagendran, Hari Moorthy, Ishita Tiwari, Danielle Carrick, Lily Boyce, Andrew Couts, James Temperton, Daniel Howden, Eeva Liukku, David Davidson, Willemijn Sneep, Sascha Meijer,",AI,TEXT,INSTITUTIONAL,NO,NO,MACHINE LEARNING,PREDICTIVE MODEL,YES
+Colombia,Cuestión Pública,Small,Shortlist,The Odin Project,https://youtu.be/A048gmP6Xec,7,"Claudia Báez, Esteban Ponce de León, Diego Páramo,Sergio Rojas, Jorge Posada, Nelson Casallas y Carlos Rodríguez.",APP,TEXT,SCRAPING,NO,NO,GENERATIVE,DATA CREATION,YES
+Mexico,"Data Cívica, Intersecta",Big,Shortlist,Con Copia Oculta,https://concopiaoculta.org/la-bitacora-de-la-guerra,19,"Mónica Meltis, Estefanía Vela, Alicia Franco, Itzel Soto, Monserrat Perez, Carolina Torreblanca, Laura Atuesta, Itxaro Arteta, Alejandra Nava, Jorge Andrade, Pablo Martínez, Basem Hamza, Cassandra García, Luis Chávez, Pamela Benítez, Verónica Petraca, Gabriela García, Pilar Eunice Medina Rosales, Paris Martínez",MILITARY,TEXT,INSTITUTIONAL,YES,NO,MACHINE LEARNING,DATA CLEANING/PROCESSING,NO
+Australia,Australian Broadcasting Corporation,Big,Shortlist,Selling the Green Dream,https://www.abc.net.au/news/2023-12-14/sustainable-ethical-super-funds-with-fossil-fuel-investment/103196032,6,"Mark Doman, Pat McGrath, Katia Shatoba, Alex Palmer, Inga Ting, Kate Newton",ECONOMICS,TEXT,INSTITUTIONAL,NO,NO,GENERATIVE,PROGRAMMING,NO
+United States of America,The Marshall Project,Big,Shortlist,The Banned Books Project,https://www.themarshallproject.org/tag/banned-books,25,"REPORTING &amp; WRITING: Andrew Rodriguez Calderón, Keri Blakinger, Liset Cruz, Cid Standifer, Vignesh Ramachandran, ShanNOn Heffernan
+**COMMUNITY LISTENING:** Andrew Rodriguez Calderón, Ana Méndez, Vignesh Ramachandran, Nicole Funaro
+**DATA PROCESSING:** Andrew Rodriguez Calderón, Cid Standifer, Aaron Williams
+**VISUAL &amp; MULTIMEDIA DESIGN:** Elan Kiderman Ullendorff, Bo-Won Keum, Celina Fang, Meredith Rizzo, Jovelle Tamayo
+**VIDEO TUTORIAL:** Jasmyne Ricard
+**STYLE &amp; STANDARDS:** Ghazala Irshad, Akiba Solomon
+**AUDIENCE ENGAGEMENT:** Ashley Dye, Chris Vasquez, Kristin Bausch
+**DEVELOPMENT:** Ryan Murphy
+**STORY, DATA AND VISUAL EDITING:** David Eads, Raghuram Vadarevu, Marlon A. Walker, Tom Meagher, Andrew Rodriguez Calderón",PUBLIC POLICIES,TEXT,INSTITUTIONAL,YES,NO,GENERATIVE,DATA CREATION,YES
+United States of America,"The Washington Post, The Examination",Big,Shortlist,The food industry pays ‘influencer’ dietitians,https://wapo.st/3vER9MN,3,"Caitlin Gilbert, Anahad O’ConNOr, Sasha Chavkin",HEALTH AND WELLNESS,AUDIOVISUAL,SCRAPING,YES,NO,GENERATIVE,TRANSCRIPTION,NO
+Germany,"Tagesspiegel (Germany), Mediapart (France), Apache (Belgium), BIQdata.pl / Gazeta Wyborcza (Poland), Telex (Hungary), Deník Referendum (Czechia)",Big,Shortlist,Ground control,https://urbanjournalism.org/,23,"Editorial and research coordination: Gaby Khazalová 
+
+Tech and visual coordination: Hendrik Lehmann 
+
+Data coordination: Helena Wittlich 
+
+Project assistance: Federica Testi 
+
+ 
+
+Research in the participating countries: 
+
+Steven Vanden Bussche (Apache, Belgium) 
+
+Alexander Abdelilah (France) 
+
+András Miszur (Telex.hu, Hungary) 
+
+Vilmos Weiler (Telex.hu, Hungary) 
+
+Dominik Uhlig (BIQdata.pl / Gazeta Wyborcza, Poland) 
+
+Michał Iliev (BIQdata.pl / Gazeta Wyborcza, Poland) 
+
+Alicja Gadomska (BIQdata.pl / Gazeta Wyborcza, Poland) 
+
+Danuta Pawłowska (BIQdata.pl / Gazeta Wyborcza, Poland) 
+
+Nina Breher (Tagesspiegel, Germany) 
+
+Corin Baurmann (Tagesspiegel, Germany) 
+
+Hendrik Lehmann (Tagesspiegel, Germany) 
+
+Helena Wittlich (Tagesspiegel, Germany) 
+
+Gaby Khazalová (Deník Referendum, Czechia) 
+
+Data visualization and web development: 
+
+Lennart Troebs (Tagesspiegel, Germany) 
+
+Tamara Flemisch (Tagesspiegel, Germany) 
+
+Kirk Jackson (Tagesspiegel, Germany) 
+
+Katarzyna Korzeniowska (BIQdata.pl / Gazeta Wyborcza, Poland) 
+
+Satellite team: 
+
+Michael Anthony (Vertical 52) 
+
+Marcus Pfiler (Vertical 52) 
+
+Daniel Lanz (Marple) 
+
+Federico Monica (PlaceMarks) 
+
+Michele Luppi (PlaceMarks)",ECONOMICS,TEXT,INSTITUTIONAL,NO,NO,MACHINE LEARNING,DATA ANALYSIS,NO
+Ukraine,Texty.org.ua,Small,Shortlist,"The stolen treasures. The 110,000 artifacts from Ukraine found in two Russian museums.",https://TEXTy.org.ua/d/2023/stolen_heritage/en/,4,"Inna Gadzynska: idea, analytics, TEXT;
+Nadia Romanenko: data collection and processing;
+Nadia Kelm: design, graphics;
+Yevheniia Drozdova: layout, interactive.",CULTURE,TEXT,INSTITUTIONAL,NO,NO,MACHINE LEARNING,SCRAPING,NO
+United Kingdom,The EcoNOmist,Big,Shortlist,Tracking conflict from space,https://www.ecoNOmist.com/interactive/briefing/2023/02/23/data-from-SATELLITEs-reveal-the-vast-extent-of-fighting-in-ukraine,5,"Ainslie Johnstone, Sondre Solstad, Andreas Moor, Filippo Teoldi, Rosamund Pearce.",MILITARY,SATELLITE,INSTITUTIONAL,NO,YES,MACHINE LEARNING,"PREDICTIVE MODEL
+",NO
+France,"Lighthouse Reports, Le Monde",Big,Shortlist,Is data neutral ? How an algorithm decides which French households to audit for welfare fraud,https://www.lemonde.fr/en/les-decodeurs/visuel/2023/12/05/how-an-algorithm-decides-which-french-households-to-audit-for-benefit-fraud_6313254_8.html,12,"Soizic Penicaud (Lighthouse Reports), Justin-Casimir Braun (Lighthouse Reports), Gabriel Geiger (Lighthouse Reports), Daniel Howden (Lighthouse Reports), Eva Constantaras (Lighthouse Reports), Adrien Sénécat (Le Monde), MaNOn Romain (Le Monde), Maxime VaudaNO (Le Monde), Jonathan Parienté (Le Monde), Elsa Delmas (Le Monde), Léa Girardot (Le Monde), Thomas Steffen (Le Monde)",AI,TEXT,INSTITUTIONAL,YES,NO,MACHINE LEARNING,"PREDICTIVE MODEL
+",YES
+Qatar,Al Jazeera Digital,Big,Shortlist,KNOw their names: Palestinians killed in Israeli attacks on Gaza,https://www.aljazeera.com/news/longform/2023/11/1/kNOw-their-names-palestinians-killed-in-israeli-attacks-on-gaza,3,"Mohammed Haddad, Mohammed Hussein and KonstantiNOs AntoNOpoulos",MILITARY,TEXT,INSTITUTIONAL,NO,NO,GENERATIVE,TRANSLATION,NO
+Brazil,Fiquem Sabendo,Small,Shortlist,Unprecedented Access: Revealing and Scanning Corporate Card Expenditures of Jair Bolsonaro and Other Former Brazilian Presidents,https://fiquemsabendo.substack.com/p/exclusivo-acessamos-as-NOtas-fiscais,4,"Luiz Fernando Toledo
+Taís Seibt
+BruNO Morassutti
+Alexandre Facciolla",POLITICS,TEXT,INSTITUTIONAL,NO,NO,GENERATIVE,DATA CREATION,NO
+United States of America,Reuters,Big,Shortlist,The Bat Lands,https://www.reuters.com/investigates/section/global-pandemic-bats-overview/,35,"Ryan McNeill, Deborah J. Nelson, Helen Reid, Allison Martell, Cooper Inveen, Matthew Green, Jake Spring, Ruma Paul, Andrew R.C. Marshall, Grant Smith, Michael Ovaska, Sreekanth Sivadasan, Ruma Paul, Andrew R.C. Marshall, Adolfo Arranz, Daisy Chung, Sam Hart, Jackie Gu, Simon Newman, Prasanta Kumar Dutta, Rupam Nair, Francis Kokoroko, Alphonso Toweh, Leonardo Benassatto, BruNO Kelly, Emma Jehle, Rafiqur Rahman, Sivaram V, Rosanna Philpott, Lucy Ha, Matthew Stock, Chen Lin, Matthew Weber, Janet Roberts, Feilding Cage, Paulo Prada and Blake Morrison",ENVIRONMENT,TEXT,INSTITUTIONAL,YES,NO,MACHINE LEARNING,"PREDICTIVE MODEL
+",YES
+Cameroon,"Le Monde,InfoCongo",Big,Shortlist,Looted Forests,https://infocongo.org/en/cameroons-undeterred-illegal-loggers/,14,"Authors: Josiane Kouagheu and Madeleine Ngeunga
+InfoCongo team: David Akana, Kevin Nfor, JeanNOt Ema’a, Fabrice Wekak, Akira Junior and Ella Iradukunda
+Le Monde team: Charlotte Bozonnet, Marie De Vergès, Elise Barthet, Anna Sylvestre Treiner, Riccardo Pravettoni and the graphic design team
+And the data architect of Rainforest Investigations Network: Kuang Keng Kuek Ser",ENVIRONMENT,TEXT,INSTITUTIONAL,NO,NO,MACHINE LEARNING,NA,NO
+United States of America,ProPublica,Big,Shortlist,Roots of an Outbreak,https://www.propublica.org/article/pandemic-spillover-outbreak-guinea-forest-clearing,3,"Caroline Chen, Irena Hwang, Al Shaw",ENVIRONMENT,SATELLITE,INSTITUTIONAL,YES,YES,MACHINE LEARNING,"PREDICTIVE MODEL
+",YES
+Spain,EL PAÍS,Big,,https://elpais.com/television/2023-11-29/descifrando-cuentame-420-de-episodios-y-mas-de-1000-personajes-que-han-contado-nuestras-vidas.html,https://elpais.com/television/2023-11-29/descifrando-cuentame-420-de-episodios-y-mas-de-1000-personajes-que-han-contado-nuestras-vidas.html,4,"Borja AndriNO Turón, Yolanda Clemente Pomeda, Patricia San Juan Flores, Montserrat Hidalgo Pérez",SOCIETY,TEXT,SCRAPING,YES,NO,MACHINE LEARNING,NA,NO
+Brazil,Estadão,Big,,BBB 23 e IA,https://www.estadao.com.br/emais/tv/bbb-23-inteligencia-artificial-revela-quem-mais-apareceu-NOs-vts-do-programa/,3,"Lucas Thaynan, Cindy DamasceNO e BruNO PonceaNO",AI,AUDIOVISUAL,IN-HOUSE SOURCE,YES,NO,Deep Learning,DATA ANALYSIS,YES
+Colombia,"Cuestión Pública, 360 Grados Co.",Small,,Corruption &amp; Punishment,https://cuestionpublica.com/corrupcion-y-castigo/,19,"Claudia Báez, Camilo Vallejo, Edier Buitrago, Andrea Rincón, Valeria Báez, Ketty Roqueme, Laurasofía Polanco, Heidy Suárez, Natalia Quesada, Sergio Retavisca, Juan Pablo ReYES, Laura Martínez, Jesús Rincón, Menfis Lara, César Molinares, Leonardo Gómez Díaz, Mónica Oyuela, Andrés Hernández, Margarita Buitrago.",POLITICS,TEXT,INSTITUTIONAL,YES,NO,GENERATIVE,DATA CREATION,NO
+Brazil,g1 Globo,Big,,"g1 publishes reports with the updated population of all 5,570 Brazilian municipalities in the IBGE Census",https://g1.globo.com/ecoNOmia/censo/NOticia/2023/06/28/g1-reportagens-ibge.ghtml,4,"Coordination: Igor Costa, Ricardo Gallo, Guilherme Gomes &amp; Renato Franzini",SOCIETY,TEXT,INSTITUTIONAL,YES,NO,GENERATIVE,DATA CREATION,NO
+Brazil,Folha de S.Paulo,Big,,Lula destaca temas sociais na internet em 100 dias e engaja meNOs do que Bolsonaro,https://www1.folha.uol.com.br/poder/2023/04/lula-destaca-temas-sociais-na-internet-em-100-dias-e-engaja-meNOs-do-que-bolsonaro.shtml,2,"CristiaNO Martins, Diana Yukari",POLITICS,TEXT,SOCIAL MEDIA,NO,NO,GENERATIVE,DATA CREATION,YES
+Canada,Global News,Big,,COVID test supplier received billions in pandemic contracts after submitting edited results,https://globalnews.ca/news/10183219/covid-test-supplier-canada/,NA,The applicant did NOt give consent to publish details of this entry.,ECONOMICS,TEXT,INSTITUTIONAL,YES,NO,NA,NA,NO
+India,"Al Jazeera, The Reporters' Collective",Small,,"In India’s strife-torn Manipur, narrative battle is fought on SOCIAL MEDIA",https://www.aljazeera.com/features/2023/10/27/in-indias-strife-torn-manipur-narrative-battle-is-fought-on-social-media,1,Angana Chakrabarti,SOCIETY,TEXT,SOCIAL MEDIA,NO,NO,MACHINE LEARNING,DATA ANALYSIS,NO
+Colombia,"Cuestión Pública, Cambio Colombia, El Periódico",Small,,Disenchanted,https://cuestionpublica.com/elecciones-2023-desencanto,NA,The applicant did NOt give consent to publish details of this entry.,POLITICS,TEXT,NA,NA,NA,NA,NA,NO
+Pakistan,The Citizenry,Small,,"Big Claims, Small Expenditures: Battered by Heatwaves and Floods, Sindh spent less than half its Climate Budget in 16 years",https://thecitizenry.pk/2023/09/26/big-claims-small-expenditures-battered-by-heatwaves-and-floods-sindh-spent-less-than-half-its-climate-budget-in-16-years/,2,"Sadya Siddiqui, Oonib Azam",ENVIRONMENT,TEXT,INSTITUTIONAL,NO,NO,NA,NA,NO
+United States of America,The Marshall Project,Big,,Bail Reform in Cleveland,https://www.themarshallproject.org/tag/cleveland-bail-reform,4,"Ilica Mahajan, Rachel Dissell, David Eads, Nicole Lewis",PUBLIC POLICIES,TEXT,INSTITUTIONAL,YES,NO,OCR,SCRAPING,YES
+Argentina,LA NACION,Big,,"""Enhancing Newsroom Diversity, Equity, and Inclusion (DEI) through the Integration of Data and TechNOlogy.""",https://especialess3.lanacion.com.ar/22/05/scrolly-aml-app-nuxt/?doc_id=1AJgPG-RX5IhR5SPfMSV_Y_LIETTVRod5GoCemLSBOAg&amp;titulo=%3Cspan%3E%27How+do+I+say+it%3F%27%3C%2Fspan%3EA+tool+for+a+more+inclusive+and+respectful+communication&amp;bajada=&amp;volanta=&amp;header_NOta_theme=light&amp;preview=1&amp;estilos_apertura=&amp;id_video_apertura=&amp;url_foto_apertura=#/,27,"Catalina Alvarez, Catalina Villazuela, Cecilia Zolezzi, Delfina Arambillet, Fernando Torres Ullmer, Florencia Abd, Florencia Bietti, Florencia Coelho, Félix Ramallo, Gabriel Alonso, Gabriela Bouret, Gabriela Miño, José Falvo, Lautaro Royan, Lucas Vélez, Lucila Mundani, María Inés Arán, María Paula Pilijos, Martín Pascua, Melanie Prokopiec, Melisa Vera Chavez, Natalia Louzau, Pablo ArellaNO, Pablo Loscri, Paula Silva Montes de Oca, Tobías González, Victoria Achinelli",APP,TEXT,IN-HOUSE SOURCE,YES,NO,GENERATIVE,DATA CREATION,YES
+Germany,Süddeutsche Zeitung,Big,,The Dark Side of Hydropower,https://www.sueddeutsche.de/projekte/artikel/wissen/energy-hydropower-statistics-erosion-china-brazil-e650240/,9,"Tobias Landwehr, Christoph von Eichhorn, Elisa von Grafenstein, Jonas Jetzig, Markus Hametner, Stefan Kloiber, Isabel Kronenberger, Sören Müller-Hansen, Malte Hornbergs",ENVIRONMENT,SATELLITE,INSTITUTIONAL,YES,NO,MACHINE LEARNING,PREDICTIVE MODEL,YES
+United States of America,The Philadelphia Inquirer,Big,,Philadelphia's Primary Voting Clusters,https://www.inquirer.com/POLITICS/election/inq2/philadelphia-democrats-race-class-voting-data-20230221.html,4,"Aseem Shukla (data reporter)
+Julia Terruso (political reporter)
+Jonathan Lai (data editor)
+Ariella Cohen (assistant managing editor, news)",POLITICS,TEXT,INSTITUTIONAL,YES,YES,MACHINE LEARNING,DATA ANALYSIS,YES
+United Kingdom,Financial Times,Big,,GENERATIVE AI exists because of the transformer: this is how it works,https://ig.ft.com/generative-ai/,7,"Madhumita Murgia, Dan Clark, Sam Learner, Irene de la Torre Arenas, Sam Joiner, Eade Hemingway and Oliver Hawkins.",AI,TEXT,AI,YES,NO,GENERATIVE,DATA CREATION,YES
+United States of America,"The Washington Post, in collaboration with Carbon Plan",Big,,Where dangerous heat is surging,https://www.washingtonpost.com/climate-ENVIRONMENT/interactive/2023/extreme-heat-wet-bulb-globe-temperature/,6,"Authors of DATA ANALYSIS: Niko Kommenda, Oriana Chegwidden, Jeremy Freeman
+Story authors: Niko Kommenda, ShanNOn Osaka, Simon Ducroquet and Veronica Penney",ENVIRONMENT,TEXT,INSTITUTIONAL,YES,NO,MACHINE LEARNING,PREDICTIVE MODEL,NO
+United States of America,CNN,Big,,"‘Not seen since Vietnam’: Israel dropped hundreds of 2,000-pound bombs on Gaza, analysis shows",https://edition.cnn.com/gaza-israel-big-bombs/index.html,10,"Tamara Qiblawi, Allegra Goodwin, Gianluca Mezzofiore, Nima Elbagir, Renée Rigdon, Alex Newman, Ian Berry, Barbara Arvanitidis, Mark Baron and Alex Platt",MILITARY,SATELLITE,INSTITUTIONAL,YES,NO,MACHINE LEARNING,DATA ANALYSIS,YES
+Russian Federation,Mediazona,Small,,Endless SHIZO. Have a look at the conditions of Alexei Navalny’s solitary confinement,https://en.zona.media/article/2023/06/02/shizo,NA,Mediazona Data Team,POLITICS,TEXT,SOCIAL MEDIA,NO,NO,GENERATIVE,DATA CREATION,NO
+Germany,"Dekoder-gGmbH (Germany), Novaya Gazeta Europe (Latvia)",Big,,In Propaganda’s Web,https://specials.dekoder.org/en/propaganda/in-propagandas-web/,11,"Text: Leonid Klimov (dekoder), Katya Lakova (Novaya Gazeta Europe)
+Data visualisation: Artyom Schtschennikow (Novaya Gazeta Europe)
+Data collection and analysis: Roman Beketov (independent), Leonid Klimov (dekoder), Katya Lakova (Novaya Gazeta Europe), Artyom Schtschennikow (Novaya Gazeta Europe), Daria TalaNOva (Novaya Gazeta Europe).
+Editors: Julian Hans (dekoder), ArNOld Khachaturov (Novaya Gazeta Europe), Tom Masters (Novaya Gazeta Europe)
+Design and coding: Daniel Marcus (dekoder), Artyom Schtschennikow (Novaya Gazeta Europe)
+With contributions by Sonya Richter (Novaya Gazeta Europe) and Natalie Sablowski (Süddeutsche Zeitung).",MILITARY,TEXT,NEWS,NO,NO,MACHINE LEARNING,DATA CLEANING/PROCESSING,NO
+Ukraine,Texty.org.ua,Small,,Harvest from the occupied territories. How much Russia earns from the Ukrainian land,https://TEXTy.org.ua/projects/111159/harvest-occupied-territories/,2,"Yevhenia Drozdova,
+Nadia Kelm",MILITARY,SATELLITE,INSTITUTIONAL,YES,NO,MACHINE LEARNING,DATA CLEANING/PROCESSING,YES
+Ukraine,"Schemes (RFE/RL Ukrainian service), Systema (RFE/RL Russian service), Central newsroom (RFE/RL)",Big,,"The ""Redut"" catch. How the GRU created a phantom ""PMC"" to recruit thousands of Russians for the war against Ukraine",https://www.radiosvoboda.org/a/chvk-redut-gru-skhemy-systema/32708817.html,11,"Authors: Valeriya Yegoshyna, Kira Tolstyakova, Yelizaveta Surnacheva, Daniil Belovdiev, and Carl Schreck
+
+Contributing reporters: Dmitry Sukharev, Kirill Kruglikov, and Olha Ivlieva
+
+Editing: Carl Schreck, Andrei Soshnikov, Natalya Sedletska, and Anna Peterimova",MILITARY,TEXT,INSTITUTIONAL,NO,NO,OCR,DATA CLEANING/PROCESSING,NO
+"Korea, Republic of","The hankookilbo
+https://www.hankookilbo.com/",Big,,"미씽, 사라진 당신을 찾아서",https://interactive.hankookilbo.com/v/dementia/chapter2.html,11,"엑설런스랩 - 강윤주, 이성원, 박지영
+디지털미디어부 - 박인혜, 한규민, 이정재
+기획영상부 - 박고은, 안재용, 제선영, 전세희
+멀티미디어부 - 최주연",HEALTH AND WELLNESS,TEXT,INSTITUTIONAL,NO,NO,NA,NA,NO
+France,Le Monde,Big,,"Games of chance, scratch-off tickets... Why we keep losing and always will",https://www.lemonde.fr/les-decodeurs/visuel/2023/12/27/jeux-d-argent-et-de-hasard-tickets-a-gratter-pourquoi-NOus-sommes-toujours-perdants_6207879_4355770.html,6,"Raphaëlle Aubert,Elsa Delmas,Maxime Ferrer,Solène Reveney,Thomas Steffen,Jonathan Parienté",SOCIETY,TEXT,SCRAPING,NO,NO,GENERATIVE,PROGRAMMING,NO
+Egypt,almanassa,Small,,المعلومات الجنسية للفتاة المصرية.. ممنوع الوصول (Sexual information of the Egyptian girl.. access is forbidden),https://manassa.news/stories/12963,1,I am the original project owner,SOCIETY,TEXT,NON-DOCUMENTARY REPORT,NO,NO,NA,NA,NO
+United States of America,"Veza.News, The Pulitzer Center on Crisis Reporting, The Namibian, The Namibian Sun, New Era Newspaper, The Daily Maverick, HumAngle, The Cable, Ghana Business News, The Africa Brief, WikkiTimes, Foundation for Investigative Journalism Nigeria, Solacebase, Econaiplus",Small,,Not the kind of life a human being should live – a three-part investigation into Namibia’s sanitation crisis,https://veza.news/article/2023/05/01/how-namibias-sanitation-crisis-is-endangering-its-people-and-its-future,9,"**Freddie Clayton** - Freelance journalist,
+**Sonja Smith** - Freelance journalist,
+**Margaret Courtney-Clarke** - Freelance photographer,
+**Yaffa Fredrick** - Editorial Director at the Center for Collaborative Investigative Journalism (CCIJ),
+**Sotiris Sideris** - Data Editor at the CCIJ,
+**Yuxi Wang** - Data Fellow at the CCIJ,
+**Scott Lewis** - Visual Editor at the CCIJ,
+**Jillian Duziak** - Design Director at the CCIJ,
+**Melissa Mahtani** - Project Editor at the CCIJ (and investigation fact-checker)",HEALTH AND WELLNESS,TEXT,INSTITUTIONAL,NO,NO,GENERATIVE,PROGRAMMING,NO
+Qatar,Al Jazeera Digital,Big,,"Israel-Palestine war: ‘Ceasefire’ or ‘pause’, what have world leaders said?",https://www.aljazeera.com/news/longform/2023/11/30/israel-palestine-war-ceasefire-or-pause-what-have-world-leaders-said,NA,AJLabs,MILITARY,AUDIOVISUAL,SOCIAL MEDIA,NO,NO,NLP,SCRAPING,NO
+Qatar,Al Jazeera Digital,Big,,Recreating a Palestinian village 75 years after the Nakba,https://www.aljazeera.com/features/longform/2023/5/15/recreating-a-palestinian-village-75-years-after-the-nakba,2,"Amandas Ong, AJ Labs",SOCIETY,TEXT,HISTORICAL RECORDS,NO,NO,GENERATIVE,DATA CREATION,NO
+Singapore,Kontinentalist,Small,,Into the Alternate World of Copy Songs,https://kontinentalist.com/stories/myanmar-copy-songs,10,"Code / Li Jia Li
+Writer / Lu Min Lwin
+Data visualisation / Yan Naung Oak
+Data analysis / Yan Naung Oak, Lu Min Lwin
+Design and illustration / Zune Ei Htet
+This story was written in consultation with / Amanda Teo, Gwyneth Cheng, Joceline Kuswanto, Loh Pei Ying, Nabilah Said, and Siti Aishah Bte Azmansah",CULTURE,AUDIOVISUAL,SOCIAL MEDIA,YES,NO,GENERATIVE,DATA CLEANING/PROCESSING,YES
+Philippines,Rappler,Small,,How pro-China propaganda is seeded online in the Philippines,https://www.rappler.com/newsbreak/investigative/ways-how-china-propaganda-seeded-online-philippines/,5,"Author: Pauline Macaraeg
+Contributors: Gemma Bagayaua-Mendoza and Gaby Baizas
+Data scientist: Dylan Salcedo
+Data consultancy: TheNerve",POLITICS,AUDIOVISUAL,SOCIAL MEDIA,NO,NO,NLP,DATA ANALYSIS,NO
+Taiwan,"READr, Right Plus, Taiwan FactCheck Center, HakkaNews, Watchout, Environmental Information Center, Initium Media, Mirror TV, Mirror Media, The News Lens, Taiwan Science Media Center, The Central News Agency",Big,,Policy Memory: Collaborative Platform for Tracking 2024 Presidential and Legislative Election Policy Proposals,https://whoareyou.readr.tw/,10,"Chien Hsin-chan, Liu Yi-xin, Chang Yun-Fang, Lee Yu-Ju, Wu Man-Ru, Tseng Lee-Yu, Zhang Rong-Xuan, Chan Chia-Lin, Po-Wei Chen, Syu Siang-Yun",POLITICS,TEXT,SCRAPING,NO,NO,GENERATIVE,TRANSCRIPTION,NO
+Taiwan,READr,Small,,"A 10-Year Analysis of Public Discourse on Major Social Events: Election Year Discussions More Political, Yet More Distracted",https://www.readr.tw/post/2948,4,"Liu Yi-xin, Wu Man-Ru, Chien Hsin-chan, Syu Siang-Yun",POLITICS,TEXT,SOCIAL MEDIA,YES,NO,GENERATIVE,DATA ANALYSIS,YES
+Taiwan,READr,Small,,"Metoo Ongoing: No Avenue for Complaints, No Guilt in Litigation, A Thorny Path to Healing for Victims",https://www.readr.tw/post/2953,6,"Chen Pei Yu, Syu Siang-Yun, Lee Yu Ju, Tseng Lee-Yu, Wu Man-Ru, Chien Hsin-chan",SOCIETY,TEXT,INSTITUTIONAL,YES,NO,GENERATIVE,DATA CREATION,NO
+Taiwan,READr,Small,,不是政治人物也掏錢下選舉廣告：意見領袖加入 打「口水仗」還是重建討論空間？,https://www.readr.tw/post/2964,3,"Syu Siang-Yun, Wu Man-Ru, Chien Hsin-chan",POLITICS,TEXT,SOCIAL MEDIA,YES,NO,GENERATIVE,DATA ANALYSIS,YES
+Taiwan,READr,Small,,TikTok 上的政治版圖——藍營搶灘、綠營棄守 年輕人只認識柯文哲？,https://www.readr.tw/post/2946,3,"Syu Siang-Yun, Wu Man-Ru, Chien Hsin-chan",POLITICS,AUDIOVISUAL,SOCIAL MEDIA,YES,NO,NA,NA,NO
+Taiwan,READr,Small,,一躍成為經濟學人封面：臺灣如何成為外媒焦點,https://www.readr.tw/post/2937,6,"Lee Yu Ju, Wu Man-Ru, Chen Rou-An, Chen En-Jie, Chien Hsin-chan, Syu Siang-Yun",POLITICS,TEXT,SOCIAL MEDIA,YES,NO,GENERATIVE,DATA ANALYSIS,YES
+Taiwan,READr,Small,,兩岸開戰，臺灣慘勝或險輸？視覺化 24 次關鍵兵推：陸、海、空戰果全分析,https://www.readr.tw/post/2932,7,"Lee Yu Ju, Liu yi-xin, Syu Siang-Yun, Wu Man-Ru, Tseng Lee-Yu, Fu Dian-Yang, Chien Hsin-chan",MILITARY,TEXT,INSTITUTIONAL,NO,NO,GENERATIVE,DATA ANALYSIS,NO
+Egypt,"Masrawy platform
+https://www.masrawy.com/",Big,,Medicalizing circumcision.. Wrong policies that put the scalpel in the doctor’s hand and fail to remove it,https://www.masrawy.com/news/news_various/details/2023/9/26/2472851/,NA,**This investigation was produced with support from the International Center for Journalists.**,HEALTH AND WELLNESS,TEXT,INSTITUTIONAL,NO,NO,NA,NA,NO
+Ukraine,"NIKCENTER
+https://nikcenter.org/",Small,,Mykolaiv region under fire: interactive map of enemy attacks in the southern region of Ukraine,https://nikcenter.org/mykolayivshhyna-pid-obstrilamy/,6,"Oleg OgaNOv, Olesia Boreyko, Oksana Orsach, Maria Ivanikova, Alyona Petruk, and Oleksandr Sidieliev.",MILITARY,TEXT,SCRAPING,NO,NO,GENERATIVE,PROGRAMMING,NO
+United States of America,"The Marshall Project, The New York Times, The Times Union, New York Focus, Investigative Post",Big,,How New York’s Abusive Guards Keep Their Jobs,https://www.themarshallproject.org/2023/05/19/new-york-prison-corrections-officer-abuse-prisoners,4,"Alysia Santo, Joseph Neff, Tom Meagher, Ilica Mahajan",PUBLIC POLICIES,TEXT,INSTITUTIONAL,NO,NO,NLP,DATA ANALYSIS,NO
+United States of America,Rest of World,Small,,How AI reduces the world to stereotypes,https://restofworld.org/2023/ai-image-stereotypes/,4,"Victoria Turk: Author, project director
+Marko Drobnjakovic: Photo research 
+Cengiz Yar: Visual editing &amp; Production
+Joanne Lee, Anna Rasshivkina: Design &amp; Product",AI,IMAGES ,AI,NO,NO,GENERATIVE,DATA CREATION,YES
+United States of America,The Baltimore Banner,Big,,Tax sale nightmare,https://www.thebaltimorebanner.com/community/housing/baltimore-tax-sale-lien-auction-64APUHOPUFB6VJ4Z6IX6WC7NMU/,3,"Nick Thieme, Sophie Kasakove, Laila Milevski",PUBLIC POLICIES,TEXT,INSTITUTIONAL,YES,YES,MACHINE LEARNING,DATA CLEANING/PROCESSING,NO
+Poland,"Vsquare,org, Investigace.cz, Frontstory.pl, ICJK, KRIK",Small,,Firehose of Falsehood,https://vsquare.org/telegram-the-free-zone-for-disinformation-and-conspiracies/,13,"Josef Šlerka, Investigace.cz, Czech Republic
+Anna Gielewska, VSquare, Poland
+Anastasiia Morozova, Frontstory, Poland
+Anja Vladisavljević, Oštro, Croatia
+Hrvoje Perica, Oštro, Croatia
+Katarina Bulatović, Oštro, Slovenia
+Iulia StăNOiu, ConTEXT.ro, Romania
+Karin Kõváry Sólymos, ICJK, Slovakia
+Marija Vučić, KRIK, Serbia
+Atanas TchobaNOv, BIRD.BG, Bulgaria
+Márton Sarkadi Nagy, Átlátszó, Hungary
+Zalán Zubor, Átlátszó, Hungary
+Petra Blum, WDR and Palina Milling, WDR",POLITICS,TEXT,SOCIAL MEDIA,YES,NO,MACHINE LEARNING,DATA ANALYSIS,YES
+Japan,The Asahi Shimbun,Big,,Gender Bias Analysis of ChatGPT,https://www.asahi.com/ajw/articles/15053590,3,Written by Kenichiro ShiNO and Keisuke Yamazaki with DATA ANALYSIS by Takuro Niitsuma,AI,TEXT,AI,YES,NO,GENERATIVE,DATA CREATION,YES
+France,"Mediapart, La Republica (Peru), Convoca, InfoCongo, InfoAmazonia, Inkyfada, Times of Cameroon, Media241.",Small,,#PerencoSystem - global ENVIRONMENTal abuses from France's 2nd largest oil and gas operators,https://infoamazonia.org/en/2023/12/04/hydrocarbon-licenses-and-protected-areas-perencos-global-system-of-abuses/,11,"Dorian Cabrol, Alexandre Brutelle, Pamela Huerta, Juliana Mori, Carolina Passos, Luis Enrique Pérez, Carolina Dantas, Thimothy Shing, Madeleine Ngeunga, Ghislaine Deudjui, Philomène Djussi",ENVIRONMENT,TEXT,INSTITUTIONAL,NO,NO,NA,NA,NO
+Malaysia,"Malaysiakini, Centre for Investigative Journalism Nepal, Himal Khabar",Big,,"Migrant worker import quota won via fake deals, then traded for millions",https://www.malaysiakini.com/news/687116,2,"Ramu Sapkota, S ViNOthaa",HUMAN RIGHTS,TEXT,INSTITUTIONAL,NO,NO,GENERATIVE,TRANSCRIPTION,NO
+United States of America,"The project was led by the International Consortium of Investigative Journalists (ICIJ) and Paper Trail Media in collaboration with 67 media partners: 
+Twala.info (Algeria); Investigative Journalists of Armenia (Armenia); Australian Financial Review (Australia); Der Standard, ORF (Austria); Belarusian Investigative Center (Belarus); De Tijd, Knack, Le Soir (Belgium); Organized Crime and Corruption Reporting Project (Bosnia and Herzegovina); BVI Beacon (British Virgin Islands); BIRD (Bulgaria); CENOZO (Burkina Faso); CBC/ Radio Canada, La Presse (Canada); Oštro (Croatia); investigace.cz (Czechia); Politiken (Denmark); Diario Rombe (Equatorial Guinea); Delfi Estonia (Estonia); Yle, Finnish Broadcasting Company (Finland); Le Monde, Premières Lignes, Radio France (France); Der Spiegel, ZDF (Germany); Reporters United (Greece); Direkt36 (Hungary); Heimildin (Iceland); The Indian Express (India); Shomrim (Israel); L’Espresso (Italy); ARIJ (Jordan); Re:Baltica (Latvia); DARAJ (LebaNOn); Siena (Lithuania); Reporter.lu (Luxembourg); Malta Times (Malta); Rise Moldova (Moldova); MANS (Montenegro); Le Desk (Morocco); Het Financieele Dagblad, NRC, Trouw (Netherlands); Aftenposten (Norway); Frontstory.pl, Fundacja Reporterow, VSquare.org (Poland); Espresso (Portugal); ConTEXT (Romania); iStories (Russia); KRIK (Serbia); Oštro (Slovenia); El País, La Sexta (Spain); Utrikesmagasinet.se, Gota Media, SVT (Sweden); Tamedia (Switzerland); SIRAJ (Syria); DW Turkey (Turkey); BBC, The Bureau of Investigative Journalism, The Guardian (United Kingdom); Slidstvo media (Ukraine); NBC News, The Washington Post (United States)",Big,,Cyprus Confidential,https://www.icij.org/investigations/cyprus-confidential/,270,"Journalists from the International Consortium of Investigative Journalists, Paper Trail Media, and 67 other media partners. In total, more than 270 journalists in 54 countries and one territory.
+
+A full list of journalists and media partners can be seen here: https://www.icij.org/investigations/cyprus-confidential/about-cyprus-confidential-investigation/",POLITICS,TEXT,INSTITUTIONAL,NO,NO,MACHINE LEARNING,TRANSLATION,NO
+France,"Le Monde, Data4Good, Eclaircies",Big,,Carbon bombs: the fossil fuel projects dooming the world's efforts to fight climate change,https://www.lemonde.fr/en/ENVIRONMENT/visuel/2023/10/31/carbon-bombs-the-fossil-fuel-projects-dooming-the-world-s-climate-efforts_6215795_114.html,11,"Raphaëlle Aubert, Elsa Delmas, Léa Sanchez, Maxime Ferrer, Maxime VaudaNO, Claire Gillet, Thomas Steffen, Grégoire Allix, Lou Welgryn, Oriane Wegner, Théo Alves Da Costa",ENVIRONMENT,TEXT,INSTITUTIONAL,YES,YES,GENERATIVE,PROGRAMMING,NO
+Egypt,جريدة المال، نقابة الصحفيين المصرية,Big,,توصيلة بالدم.. التوك توك نعش سائقه (قصة مدفوعة بالبيانات),https://almalnews.com/%d8%aa%d9%88%d8%b5%d9%8a%d9%84%d8%a9-%d8%a8%d8%a7%d9%84%d8%af%d9%85-%d8%a7%d9%84%d8%aa%d9%88%d9%83-%d8%aa%d9%88%d9%83-%d9%86%d8%b9%d8%b4-%d8%b3%d8%a7%d8%a6%d9%82%d9%87-%d9%82%d8%b5%d8%a9-%d9%85/,NA,أنتج ضمن مشروع تخرج في دورة تدريبية حول صحافة البيانات بين مؤسسة هيكل للصحافة العربية ونقابة الصحفيين.,HUMAN RIGHTS,TEXT,INSTITUTIONAL,NO,NO,GENERATIVE,SEARCH AND DATA CREATION,NO
+United States of America,"OCCRP, ConTEXT.ro, Daraj, Der Standard, Follow the Money, Forbes, The Guardian, The Government Accountability Project, Heidi.news, InfoLibre, Le Monde, Lighthouse Reports, The Miami Herald, Paper Trail Media, Proekt, The Reporter and Zamaneh Media",Big,,Passports of the Caribbean,https://www.occrp.org/en/dominica-passports-of-the-caribbean/,42,"Fahim Abed (Lighthouse Reports), Roman Badanin (Proekt), Jana Barakat (Daraj), Jeremie Baruch (Le Monde) Antonio Baquero (OCCRP), Attila Biro (ConTEXT.ro), Tom Bolsius (Follow The Money), Luc Caregari (Reporter.lu), Daniela Castro (OCCRP), Lara Dihmis (OCCRP), Mahtab Divsalar (Zamaneh Media), Alex Dziadosz (OCCRP), Hazem El Amin (Daraj), Jared Ferrie (OCCRP), Brian Fitzpatrick (OCCRP), Juliette Garside (The Guardian), Kevin Hall (OCCRP), Carina Huppertz (Paper Trail), Alia Ibrahim (Daraj), Jasper Jolly (The Guardian), Will Jordan (OCCRP), Zack Kopplin (Government Accountability Project), Lukas Kotkamp (Follow The Money), William Kung (The Reporter), Sherry Lee (The Reporter), Anand Mangnale (OCCRP), Selma Mhaoud (OCCRP), Hala Nasreddine (Daraj), Frederik Obermaier (Paper Trail), Bastian Obermayer (Paper Trail) , Chikezie Omeje (OCCRP), Miranda Patrucic (OCCRP), Jessica Purkiss (Lighthouse Reports), Ruben Schaar (Follow The Money), Vitaliy Soldatskikh (Proekt), Jan Strozyk (OCCRP), Giacomo Tognini (Forbes), Sharad Vyas (OCCRP), Martin Young (OCCRP), Jacqueline Charles (The Miami Herald), Antoine Harari (Heidi.news), Holly Darrow (The Government Accountability Project).",POLITICS,TEXT,INSTITUTIONAL,NO,NO,DISCRIMINATIVE AI,DATA CLEANING/PROCESSING,NO
+Brazil,Aos Fatos,Small,,Golpeflix,https://www.aosfatos.org/golpeflix/,18,"CONCEPT
+Alexandre Aragão e Tai Nalon
+
+EDITING
+Alexandre Aragão, Bernardo Moura, BruNO Fávero, Leonardo Cazes e Tai Nalon
+
+INVESTIGATION AND RESEARCH
+Amanda Ribeiro, Bianca Bortolon, Ethel Rudnitzki, João Barbosa, Luiz Fernando Menezes, Marco FaustiNO e Milena Mangabeira
+
+DISTRIBUITION
+Ana Rita Cunha, Bruna Leite e Luiza Barros
+
+TECHNOLOGY AND DESIGN
+Café.art, Carlos Leandro e Rhenan Bartels",POLITICS,AUDIOVISUAL,SOCIAL MEDIA,NO,NO,MACHINE LEARNING,PREDICTIVE MODEL,NO
+Canada,Radio-Canada,Big,,Voici la recette des films de Noël de Hallmark,https://ici.radio-canada.ca/info/2023/films-NOel-television-hallmark-recette-cliches-biais/,8,"Daniel Blanchette Pelletier et Laurianne Croteau journalistes de données, Sara Barrière-Brunet cheffe de pupitre, Andréa Alvarenga et Louis-Philippe Bouvier designers, André Guimaraes et Mathieu St-Laurent développeurs et Danielle Jazzar réviseure linguistique",CULTURE,TEXT,SCRAPING,YES,NO,GENERATIVE,DATA CREATION,YES
+Egypt,موقع مصراوي,Big,,إخوان الدم.. ماذا فعل صراع الجنرالين بأسرتين سودانيتين؟,https://www.masrawy.com/news/news_various/details/2023/12/31/2517738/%D8%A5%D8%AE%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%AF%D9%85-%D9%85%D8%A7%D8%B0%D8%A7-%D9%81%D8%B9%D9%84-%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D8%AC%D9%86%D8%B1%D8%A7%D9%84%D9%8A%D9%86-%D8%A8%D8%A3%D8%B3%D8%B1%D8%AA%D9%8A%D9%86-%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%AA%D9%8A%D9%86-#keyword,5,"عبد الوهاب عليوة (مشرف) 
+
+سحر عيسى (رسامة) 
+
+محمد عزت، مصمم ومنفذ 
+
+مصطفى عثمان ( جرافيك)
+
+ مريم سلطان (موشن جرافيك)
+ 
+ الفريق الفني في موقع مصراوي الخاص بالتصميمات والرسوم الجرافيك، وهم عناصر أساسية وشركاء في خروج الموضوع بهذا الشكل ، ومجهودهم لا يقل شئيا عن كاتب الموضوع",MILITARY,TEXT,NON-DOCUMENTARY REPORT,NO,NO,NA,NA,NO
+Pakistan,Soch Videos,Small,,Pakistani Arms in Ukraine,https://www.youtube.com/watch?v=vOSCz0qZfr0,6,"Story Authors: 
+Areeba Fatima,
+Umer Zaib Khan.
+
+Video Production:
+Sofyan Sultan,
+Turab Hassan,
+Mashhood Jafri,
+Muhammad Abid.",MILITARY,TEXT,INSTITUTIONAL,NO,NO,NA,NA,NO
+Nigeria,Africa Prime News,Small,,"Migrants Die, Leave Libya Given Health Challenges They Face In Detention Centers",https://africaprimenews.com/2023/10/migrants-die-leave-libya-given-health-challenges-they-face-in-detention-centers-by-odimegwu-onwumere/,1,I did the work myself,HUMAN RIGHTS,TEXT,INSTITUTIONAL,NO,NO,NA,NA,NO
+Netherlands,"NOS, L1, Omroep Brabant, Omroep Zeeland, Omroep West, NT Nieuws, RTV Utrecht, Omroep Gelderland, RTV Oost, RTV Drenthe, RTV Noord",Big,,No money coming out of the wall: ATMs malfunction too often,https://NOs-nl.translate.goog/artikel/2494692-geen-geld-uit-de-muur-geldautomaten-te-vaak-in-storing?_x_tr_sl=nl&amp;_x_tr_tl=en&amp;_x_tr_hl=nl&amp;_x_tr_pto=wapp&amp;_x_tr_hist=true,2,"Just Vervaart, Nik Wouters",ECONOMICS,TEXT,INSTITUTIONAL,YES,NO,GENERATIVE,PROGRAMMING,NO
+United Kingdom,The Times,Big,,Autocrats playground: How the UK continues to supply Putin with key exports and acts as a piggy bank for the families of the worlds authoritarian regimes,https://www.thetimes.co.uk/article/uk-property-investigation-children-autocratic-rulers-87fj60g5f,4,"George Greenwood: Investigations Reporter 
+Tom Saunders Business Reporter 
+Emanuelle Midolo Property Reporter 
+Louis Goddard: Researcher and co-founder of Data Desk (who we collaborated with on the trade investigations)",POLITICS,TEXT,INSTITUTIONAL,NO,NO,MACHINE LEARNING,DATA ANALYSIS,NO
